@@ -1,2 +1,1 @@
-# shellregset
-Collection of useful shell extensions for Windows
+# Shell Registry Setter
