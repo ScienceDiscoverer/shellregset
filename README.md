@@ -8,4 +8,4 @@ Features:
 * Creates [symbolic links](https://docs.microsoft.com/en-us/windows/win32/fileio/symbolic-links) if you Shift-press the Explorer item
 * Creates [hard links](https://docs.microsoft.com/en-us/windows/win32/fileio/hard-links-and-junctions) if you Shift-press the Explorer item
 
-_Note: you might want to change localisation of some strings to your native OS language, currently most of them are in Ukrainian.
+_Note: you might want to change localisation of some strings to your native OS language, currently most of them are in Ukrainian._
